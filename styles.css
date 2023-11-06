@@ -16,13 +16,16 @@ p {
 
 
 .item{
-    color: #f50707;
+    color: #1707f5;
 }
 
 
 
 
-
+#titulo2 {
+       font-size: 30px;
+       color: #f20707;
+}
 
 
 
