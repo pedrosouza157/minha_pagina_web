@@ -48,5 +48,14 @@ img2{
 header{
     text-align: center;
     font-size: 50px;
-    color: #1707f5;
+    color: #1707f5
+}
+
+
+.principal{
+           background-color: azure;
+}
+
+.beneficios{
+            background-color: aliceblue;
 }
